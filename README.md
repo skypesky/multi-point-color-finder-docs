@@ -1,40 +1,39 @@
-# 七七多点找色助手文档
+# Multi-Point Color Finder Documentation
 
-## 在线文档
+## Online Documentation
 
-**访问地址**: https://skypesky.github.io/multi-point-color-finder-docs/
+**Access**: https://skypesky.github.io/multi-point-color-finder-docs/
 
-## 项目简介
+## Project Introduction
 
-七七多点找色助手是一款基于 ADB 的 Android 设备截图分析工具，支持多点找色、多点比色、锚点找色、锚点比色等功能，可生成 AutoJs、大漠、锚点等格式的脚本代码。
+Multi-Point Color Finder is an ADB-based Android device screenshot analysis tool that supports multi-point color finding, multi-point color comparison, anchor color finding, anchor color comparison, and can generate scripts in AutoJs, DM, anchor, and other formats.
 
-## 功能特点
+## Features
 
-- **设备连接** - 通过 ADB 连接 Android 设备，支持 WiFi 连接
-- **多种截图方式** - ADB 截图、本地导入、剪贴板粘贴、拖放
-- **颜色点标记** - 点击图像添加颜色点，支持锚点类型设置
-- **多点找色/比色** - 支持多种相似度和搜索区域
-- **代码生成** - 支持 AutoJs、大漠、锚点等 5 种格式
-- **多 Tab 管理** - 支持多个截图标签页
-- **快捷键支持** - 完整的键盘快捷键操作
+- **Device Connection** - Connect to Android devices via ADB, supports WiFi connection
+- **Multiple Screenshot Methods** - ADB screenshot, local import, clipboard paste, drag & drop
+- **Color Point Marking** - Click image to add color points, supports anchor type settings
+- **Multi-point Color Finding/Comparing** - Supports multiple similarity levels and search regions
+- **Code Generation** - Supports 5 formats: AutoJs, DM, anchor
+- **Multi-Tab Management** - Support multiple screenshot tabs
+- **Keyboard Shortcuts** - Full keyboard shortcut support
 
-## 快速开始
+## Quick Start
 
-1. [安装 ADB](docs/zh-cn/install/windows) - 配置 Android Debug Bridge
-2. [连接设备](docs/zh-cn/guide/connect) - 连接 Android 设备
-3. [快速指引](docs/zh-cn/quick-start) - 5 步完成基本流程
+1. [Install ADB](docs/en/install/windows) - Configure Android Debug Bridge
+2. [Connect Device](docs/en/guide/connect) - Connect Android device
+3. [Quick Start](docs/en/quick-start) - Complete basic workflow in 5 steps
 
-## 支持的代码格式
+## Supported Code Formats
 
-| 格式 | 说明 |
-|------|------|
-| AutoJs找色 | AutoJs 多点找色代码 |
-| AutoJs比色 | AutoJs 多点比色代码 |
-| 大漠找色 | 大漠插件格式 |
-| 锚点找色 | 锚点格式找色 |
-| 锚点比色 | 锚点格式比色 |
+| Format | Description |
+|--------|-------------|
+| AutoJs FindColor | AutoJs multi-point color finding code |
+| AutoJs CompareColor | AutoJs multi-point color comparison code |
+| DM FindColor | DM plugin format |
+| Anchor FindColor | Anchor format color finding |
+| Anchor CompareColor | Anchor format color comparison |
 
-## 相关链接
+## Contact Us
 
-- [主项目仓库](https://github.com/skypesky/multi-point-color-finder)
-- 问题反馈：guhuo13@gmail.com
+Have questions or suggestions? Contact us: guhuo13@gmail.com
