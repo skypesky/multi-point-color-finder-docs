@@ -38,6 +38,9 @@ export default defineConfig({
               { text: 'Color Points', link: '/en/guide/color-points' },
             ]
           },
+        ],
+        socialLinks: [
+          { icon: 'github', link: 'https://github.com/skypesky' }
         ]
       }
     },
@@ -84,6 +87,9 @@ export default defineConfig({
               { text: '常见问题', link: '/zh-cn/faq' },
             ]
           },
+        ],
+        socialLinks: [
+          { icon: 'github', link: 'https://github.com/skypesky' }
         ]
       }
     }
