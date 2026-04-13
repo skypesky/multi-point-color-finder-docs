@@ -4,6 +4,8 @@ export default defineConfig({
   title: '七七多点找色助手',
   description: 'Android 设备多点找色/比色工具',
 
+  base: '/multi-point-color-finder-docs/',
+
   lang: 'zh-CN',
 
   themeConfig: {
