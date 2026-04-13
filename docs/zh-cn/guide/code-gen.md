@@ -1,7 +1,5 @@
 # 生成代码
 
-![代码生成结果](/multi-point-color-finder-docs/images/guide-codegen-result.png)
-
 ## 支持的格式
 
 | 格式 | 说明 | 示例用途 |

@@ -8,8 +8,6 @@
 2. Click "Screenshot" button to capture current screen
 3. Screenshot appears in the center image area
 
-![Screenshot Button](../../images/guide-screenshot-button.png)
-
 ### Local Import
 
 1. Click "Import" or drag image file directly

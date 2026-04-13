@@ -17,8 +17,6 @@
 
 ## Add Device
 
-![Add Device](/multi-point-color-finder-docs/images/guide-connect-add-device.png)
-
 - Click device dropdown to see all connected devices
 - Click "Add Device" to manually enter IP:port
 - Format: `IP:PORT` (e.g., `192.168.1.100:5555`)
