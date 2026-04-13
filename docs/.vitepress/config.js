@@ -74,7 +74,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/skypesky' }
+      { icon: 'github', link: 'https://github.com/skypesky/multi-point-color-finder-docs' }
     ]
   },
 
