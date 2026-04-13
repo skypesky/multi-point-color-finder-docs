@@ -1,8 +1,8 @@
 # 七七多点找色助手文档
 
-[English](README.md)
+**访问地址**: https://skypesky.github.io/multi-point-color-finder-docs/zh-cn/
 
-**访问地址**: https://skypesky.github.io/multi-point-color-finder-docs/
+[English](README.md)
 
 ## 项目简介
 

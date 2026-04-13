@@ -1,10 +1,8 @@
 # Multi-Point Color Finder Documentation
 
+**Access**: https://skypesky.github.io/multi-point-color-finder-docs/en/
+
 [中文版](README_zh-CN.md)
-
-## Online Documentation
-
-**Access**: https://skypesky.github.io/multi-point-color-finder-docs/
 
 ## Project Introduction
 
