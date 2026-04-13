@@ -4,7 +4,7 @@
 
 Click anywhere on the screenshot to add a color point. The point will appear as a numbered marker on the image.
 
-![Add Color Point](/multi-point-color-finder-docs/images/guide-color-add-point.png)
+![Add Color Point](/multi-point-color-finder-docs/images/quick-start-color-points.png)
 
 ## Color Point Properties
 

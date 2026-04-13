@@ -8,7 +8,7 @@
 2. Click "Screenshot" button to capture current screen
 3. Screenshot appears in the center image area
 
-![Screenshot Button](/multi-point-color-finder-docs/images/guide-screenshot-button.png)
+![Screenshot Button](../../images/guide-screenshot-button.png)
 
 ### Local Import
 
