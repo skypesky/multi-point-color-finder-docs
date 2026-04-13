@@ -8,7 +8,7 @@
 2. 点击「连接」按钮
 3. 状态栏显示「已连接」表示连接成功
 
-![设备连接界面](/images/quick-start-device-connect.png)
+![设备连接界面](/multi-point-color-finder-docs/images/quick-start-device-connect.png)
 
 ### 步骤 2：截图
 
@@ -16,7 +16,7 @@
 2. 点击「截图」按钮获取设备当前屏幕
 3. 截图自动显示在中间图像区域
 
-![截图按钮位置](/images/quick-start-screenshot-button.png)
+![截图按钮位置](/multi-point-color-finder-docs/images/quick-start-screenshot-button.png)
 
 ### 步骤 3：标记颜色点
 
@@ -24,14 +24,14 @@
 2. 在右侧颜色列表中设置锚点类型（None/L/C/R）
 3. 可点击颜色值复制十六进制颜色码
 
-![颜色点标记示意](/images/quick-start-color-points.png)
+![颜色点标记示意](/multi-point-color-finder-docs/images/quick-start-color-points.png)
 
 ### 步骤 4：测试
 
 1. 设置完成后点击「测试」按钮
 2. 查看返回结果：「找到: (x, y)」或「未找到」
 
-![测试结果](/images/quick-start-test-result.png)
+![测试结果](/multi-point-color-finder-docs/images/quick-start-test-result.png)
 
 ### 步骤 5：生成代码
 
@@ -39,7 +39,7 @@
 2. 点击「生成」按钮
 3. 点击「复制」将代码复制到剪贴板
 
-![代码生成结果](/images/quick-start-code-gen.png)
+![代码生成结果](/multi-point-color-finder-docs/images/quick-start-code-gen.png)
 
 ## 下一步
 
