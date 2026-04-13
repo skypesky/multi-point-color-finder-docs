@@ -10,7 +10,7 @@ export default defineConfig({
 
   themeConfig: {
     nav: [
-      { text: 'Home', link: '/' },
+      { text: 'Home', link: '/en/' },
       { text: 'Guide', link: '/en/guide/connect' },
     ],
 
