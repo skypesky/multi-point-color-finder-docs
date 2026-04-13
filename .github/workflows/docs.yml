@@ -19,19 +19,17 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
-      - name: Setup Node
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
 
       - name: Setup Pages
         uses: actions/configure-pages@v5
 
       - name: Install dependencies
-        run: npm install
+        run: bun install
 
       - name: Build
-        run: npx vitepress build docs
+        run: bunx vitepress build docs
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
