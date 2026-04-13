@@ -37,4 +37,4 @@
 ## 相关链接
 
 - [主项目仓库](https://github.com/skypesky/multi-point-color-finder)
-- [问题反馈](https://github.com/skypesky/multi-point-color-finder/issues)
+- 问题反馈：guhuo13@gmail.com
