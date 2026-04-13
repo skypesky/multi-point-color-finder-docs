@@ -45,8 +45,7 @@ brew install android-platform-tools
 
 ### 方式二：手动安装
 
-1. 下载 [Android SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools)
-   macOS 版本
+1. 下载 [Android SDK Platform Tools](https://developer.android.com/studio/releases/platform-tools) macOS 版本
 2. 解压到 `~/Library/Android/sdk/platform-tools/`
 
 ## 验证安装
@@ -82,25 +81,14 @@ source ~/.zshrc  # 或 source ~/.bash_profile
 
 1. 开启手机的「开发者选项」
    - 设置 → 关于手机 → 连续点击「版本号」7 次
-2. 启用「USB 调试」
-   - 设置 → 开发者选项 → USB 调试
+2. 启用「无线调试」或「USB 调试」
+   - 设置 → 开发者选项 → 无线调试（推荐）或 USB 调试
 3. 确保手机和电脑在同一 WiFi 网络
 
-## ADB 连接
-
-### USB 连接
+## WiFi 连接
 
 ```bash
-adb devices
-adb usb
-```
-
-### WiFi 连接
-
-```bash
-# 让手机监听 TCP 端口
-adb tcpip 5555
-
-# 通过 WiFi 连接
 adb connect 192.168.1.100:5555
 ```
+
+其中 `192.168.1.100:5555` 是你手机的 IP 地址和端口。
