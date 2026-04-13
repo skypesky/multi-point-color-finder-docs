@@ -20,9 +20,9 @@
 
 ## 快速开始
 
-1. [安装 ADB](docs/zh-cn/install/windows) - 配置 Android Debug Bridge
-2. [连接设备](docs/zh-cn/guide/connect) - 连接 Android 设备
-3. [快速指引](docs/zh-cn/quick-start) - 5 步完成基本流程
+1. [安装 ADB](https://skypesky.github.io/multi-point-color-finder-docs/zh-cn/install/windows) - 配置 Android Debug Bridge
+2. [连接设备](https://skypesky.github.io/multi-point-color-finder-docs/zh-cn/guide/connect) - 连接 Android 设备
+3. [快速指引](https://skypesky.github.io/multi-point-color-finder-docs/zh-cn/quick-start) - 5 步完成基本流程
 
 ## 支持的代码格式
 

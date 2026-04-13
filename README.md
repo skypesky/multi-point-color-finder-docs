@@ -20,9 +20,9 @@ Multi-Point Color Finder is an ADB-based Android device screenshot analysis tool
 
 ## Quick Start
 
-1. [Install ADB](docs/en/install/windows) - Configure Android Debug Bridge
-2. [Connect Device](docs/en/guide/connect) - Connect Android device
-3. [Quick Start](docs/en/quick-start) - Complete basic workflow in 5 steps
+1. [Install ADB](https://skypesky.github.io/multi-point-color-finder-docs/en/install/windows) - Configure Android Debug Bridge
+2. [Connect Device](https://skypesky.github.io/multi-point-color-finder-docs/en/guide/connect) - Connect Android device
+3. [Quick Start](https://skypesky.github.io/multi-point-color-finder-docs/en/quick-start) - Complete basic workflow in 5 steps
 
 ## Supported Code Formats
 
