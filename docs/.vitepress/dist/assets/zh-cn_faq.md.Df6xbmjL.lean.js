@@ -1,1 +1,0 @@
-import{_ as i,o as s,c as l,ae as e}from"./chunks/framework.Czhw_PXq.js";const k=JSON.parse('{"title":"常见问题","description":"","frontmatter":{},"headers":[],"relativePath":"zh-cn/faq.md","filePath":"zh-cn/faq.md"}'),t={name:"zh-cn/faq.md"};function n(o,a,r,h,d,p){return s(),l("div",null,[...a[0]||(a[0]=[e("",26)])])}const g=i(t,[["render",n]]);export{k as __pageData,g as default};
