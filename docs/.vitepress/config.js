@@ -1,10 +1,12 @@
 import { defineConfig } from 'vitepress'
 
+const isProd = process.env.NODE_ENV === 'production'
+
 export default defineConfig({
   title: 'Multi-Point Color Finder',
   description: 'ADB-based Android screenshot analysis tool',
 
-  base: '/multi-point-color-finder-docs/',
+  base: isProd ? '/multi-point-color-finder-docs/' : '/',
 
   themeConfig: {
     nav: [
