@@ -1,5 +1,13 @@
 # Quick Start
 
+## Prerequisites
+
+Before you begin, make sure you have completed the following:
+
+1. **Install the App** — Follow the [Windows Installation Guide](install/windows) or [macOS Installation Guide](install/macos) to install the application
+2. **Install ADB** — Android Debug Bridge is required for connecting to Android devices, see the ADB configuration in the installation guide
+3. **Connect Device** — Ensure your Android device has USB debugging enabled and is connected to your computer via ADB
+
 ## 5 Steps to Complete Color Finding Script
 
 ### Step 1: Connect Device
