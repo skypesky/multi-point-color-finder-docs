@@ -16,6 +16,8 @@ Before you begin, make sure you have completed the following:
 2. Click "Connect" button
 3. Status bar shows "Connected" when successful
 
+![Connect Device](/images/device-connect.png)
+
 ### Step 2: Screenshot
 
 1. Ensure device is connected
@@ -28,16 +30,22 @@ Before you begin, make sure you have completed the following:
 2. Set anchor type (None/L/C/R) in the color list on the right
 3. Click color value to copy hex color code
 
+![Mark Color Points](/images/color-points-marked.png)
+
 ### Step 4: Test
 
 1. Click "Test" button after setting up
 2. Check result: "Found: (x, y)" or "Not Found"
+
+![Test Result](/images/test-result.png)
 
 ### Step 5: Generate Code
 
 1. Select code format (AutoJs FindColor/AutoJs CompareColor/DM FindColor/Anchor FindColor/Anchor CompareColor)
 2. Click "Generate" button
 3. Click "Copy" to copy code to clipboard
+
+![Generate Code](/images/code-gen-result.png)
 
 ## Next Steps
 
