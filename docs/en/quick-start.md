@@ -1,5 +1,29 @@
 # Quick Start
 
+## Obtain the Application
+
+This is a paid software. Please obtain the installer and registration code before use.
+
+### Step 1: Get the Application Package
+
+Contact the author to get the latest installer:
+
+- **Email**: guhuo13@gmail.com
+- **Email Content**: Briefly describe your needs and specify your operating system (Windows/macOS)
+
+### Step 2: Get the Registration Code
+
+The author will generate a registration code based on your device information and send it to you via email.
+
+### Step 3: Activate the Registration Code
+
+1. Install and open the application
+2. Go to "Settings" page
+3. Click "Activate Registration Code"
+4. Enter the received registration code and confirm
+
+After successful activation, the application can be used normally.
+
 ## Prerequisites
 
 Before you begin, make sure you have completed the following:
